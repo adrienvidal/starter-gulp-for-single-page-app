@@ -1,6 +1,6 @@
 # Front-end Boilerplate using Sass and Gulp 4
 
-## Very simple Gulp starter for single page site
+## Very simple Gulp starter for single page app
 
 * Clone or download this Git repo onto your computer.
 * Install [Node.js](https://nodejs.org/en/) if you don't have it yet.
@@ -17,5 +17,5 @@
 * Uglify the JS files
 * Minify Images
 * All files are in `/src`
-* Dev environnement is in `/dist`
-* Build environnement is in `/build`
+* Dev environnement is in `/src`
+* Build environnement is in `/dist`
