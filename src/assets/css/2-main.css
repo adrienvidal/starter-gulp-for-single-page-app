@@ -1,0 +1,25 @@
+body{
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+}
+
+h1 .img-wrapper{
+    width: 70px;
+    margin-right: 10px;
+}
+
+h1 .img-wrapper img{
+    width: 100%;
+}
