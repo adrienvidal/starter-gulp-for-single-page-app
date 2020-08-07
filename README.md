@@ -1,6 +1,6 @@
-# Front-end Boilerplate using Sass and Gulp 4
+#  Very simple Gulp starter for single page app
 
-## Very simple Gulp starter for single page app
+## Init App
 
 * Clone or download this Git repo onto your computer.
 * Install [Node.js](https://nodejs.org/en/) if you don't have it yet.
