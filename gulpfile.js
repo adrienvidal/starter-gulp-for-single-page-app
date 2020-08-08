@@ -77,7 +77,8 @@ gulp.task("buildJs", function () {
 
 gulp.task("imgTask", function () {
   return gulp
-    .src("./src/assets/img/**/*")
+    .src(["./src/assets/img/**/*", "!./src/assets/img/**/*.gif"])
+    .pipe(imagemin())
     .pipe(gulp.dest("dist/assets/img"))
     .pipe(browserSync.stream());
 });
