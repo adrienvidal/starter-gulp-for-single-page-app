@@ -27,9 +27,5 @@
     "gulp-uglify-es": "^2.0.0",
     "node-sass": "^4.13.1",
     "streamqueue": "^1.1.2"
-  },
-  "dependencies": {
-    "jquery": "^3.4.1",
-    "slick-carousel": "^1.8.1"
   }
 }
